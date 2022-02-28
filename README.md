@@ -1,0 +1,2 @@
+- 🐋 Hi, I’m @frn-slt
+- 📚 I’m currently learning ABAP
